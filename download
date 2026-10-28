@@ -1,0 +1,15 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tableau temporary / lock files
+*.twb.lock
+*.twbx.lock
+*.hyper.lock
+*.tmp
+
+# Local data exports and credentials
+.env
+*.log

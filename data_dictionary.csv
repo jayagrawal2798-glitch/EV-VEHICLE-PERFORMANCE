@@ -1,0 +1,14 @@
+Column,Description,Unit_or_Values,Notes
+Record_ID,Unique sample record identifier,EV001 etc,Generated identifier
+Year,Reporting year,2021-2025,Synthetic sample year
+Manufacturer,EV brand or manufacturer,Text,Sample category
+Manufacturing_Country,Country associated with manufacturer,Country name,Not necessarily final assembly location
+Vehicle_Segment,Vehicle body segment,Hatchback; Sedan; SUV; Pickup,Sample category
+Battery_Chemistry,Battery chemistry category,LFP; NMC; NCA,Sample category only
+Battery_Capacity_kWh,Nominal battery capacity,kWh,Synthetic sample value
+Driving_Range_km,Estimated driving range,km,Synthetic sample value; not a tested specification
+DC_Fast_Charge_Min,Illustrative charging duration,minutes,Synthetic sample value; conditions are not standardized
+Annual_Sales_Units,Illustrative annual sales,vehicles,Synthetic sample value; not official sales
+Market_Share_Percent,Illustrative market share,Percent,Synthetic value; not a validated market total
+Customer_Rating,Illustrative customer rating,Scale 1-5,Synthetic sample value
+Sustainability_Score,Illustrative sustainability score,Scale 0-100,Synthetic index; methodology not validated
